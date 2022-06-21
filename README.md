@@ -1,2 +1,2 @@
-# stratascratch_daily
-update: 📝 README.md
+# SQL Technical
+
