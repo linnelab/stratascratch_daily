@@ -1,6 +1,6 @@
-# SQL Technical Practice
+# SQL Practice
 
-This repository contains question solutions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training my SQL technical.
+This repository contains question solutions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training my SQL technical. (Use PostgreSQL)
 
 ## Completed Questions:
 
