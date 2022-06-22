@@ -15,11 +15,17 @@ action                 varchar
 
 */
 
+-- note: 
+-- DATE(timestamp) : change timestamp column to date as action date (i.e. load date or exit date..etc).
 
--- solution 1: 
+-- logic:
+-- Use max load time subtract min exit time as session duration, then calculate average session time per user.
+
+
+-- solution 1: advance
 WITH daily_session_duration AS (
     SELECT load.user_id,
-           load.timestamp::date AS date,
+           DATE(load.timestamp) AS date,
            MIN(exit.timestamp) - MAX(load.timestamp) AS session_duration
     FROM facebook_web_log AS load
     INNER JOIN facebook_web_log AS exit
@@ -35,7 +41,7 @@ FROM daily_session_duration
 GROUP BY user_id
 
 
--- solution 2:
+-- solution 2: intuitive
 WITH load AS (
     SELECT user_id,
            DATE(timestamp) AS date,
