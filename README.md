@@ -2,6 +2,7 @@
 
 Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training SQL technical.
 
+## Completed List: 
 
 |#|Title|Difficulty|Company|Solution|
 |-----|-------------|----------|---------------------------------|--------|
@@ -11,3 +12,13 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10285|[Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1)|Medium|Meta/Facebook| |
 |10064|[Highest Energy Consumption](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=1)|Medium|Meta/Facebook| |
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon| |
+|10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|Dropbox| |
+|10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|Meta/Facebook| |
+|9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon| |
+|10319|[Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)|Hard|Amazon| |
+|10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)|Hard|Microsoft| |
+|514|[Marketing Campaign Success [Advanced]](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=1)|Hard|Amazon| |
+|10299|[Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1)|Easy|Microsoft| |
+|10046|[Top 5 States With 5 Star Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Hard|Yelp| |
+|9891|[Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|Amazon| |
+|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash| |
