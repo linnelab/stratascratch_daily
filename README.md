@@ -1,6 +1,6 @@
-# SQL Questions:
+# SQL Coding Questions:
 
-This repository contains question solutions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training my SQL technical. (Use PostgreSQL)
+Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training my SQL technical.
 
 ## Complete List:
 
