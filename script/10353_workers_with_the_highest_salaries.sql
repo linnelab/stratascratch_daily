@@ -18,5 +18,24 @@ department              varchar
 worker_ref_id           int
 worker_title            varchar
 affected_from           datetime
+
 */
 
+-- solution 1: use max()
+select t.worker_title
+from worker as w
+inner join title as t
+on w.worker_id = t.worker_ref_id
+where w.salary = (
+    select max(salary)
+    from worker
+)
+
+-- solution 2: use rank()
+
+
+
+
+
+
+-- soultion 3: use case when
