@@ -15,6 +15,7 @@ action                 varchar
 
 */
 
+
 -- solution 1: 
 WITH daily_session_duration AS (
     SELECT load.user_id,
@@ -32,6 +33,7 @@ SELECT user_id,
        AVG(session_duration)
 FROM daily_session_duration
 GROUP BY user_id
+
 
 -- solution 2:
 WITH load AS (
