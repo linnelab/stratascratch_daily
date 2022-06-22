@@ -55,10 +55,3 @@ FROM (
         ON w.worker_id = t.worker_ref_id
 ) AS highest_paid_title
 WHERE highest_paid_title IS NOT NULL
-
-
--- Output:
-|highest_paid_title|
-|------------------|
-|Manager           |
-|Asst. Manager     |
