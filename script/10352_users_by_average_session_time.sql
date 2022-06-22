@@ -22,7 +22,7 @@ action                 varchar
 -- Use max load time subtract min exit time as session duration, then calculate average session time per user.
 
 
--- solution 1: advance
+-- solution 1: advance method
 WITH daily_session_duration AS (
     SELECT load.user_id,
            DATE(load.timestamp) AS date,
@@ -41,7 +41,7 @@ FROM daily_session_duration
 GROUP BY user_id
 
 
--- solution 2: intuitive
+-- solution 2: intuitive method
 WITH load AS (
     SELECT user_id,
            DATE(timestamp) AS date,
