@@ -11,7 +11,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10322_finding_user_purchases.sql)|
 |10285|[Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1)|Medium|Meta/Facebook| |
 |10064|[Highest Energy Consumption](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=1)|Medium|Meta/Facebook| |
-|9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon| |
+|9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9915_highest_cost_orders.sql)|
 |10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|Dropbox| |
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|Meta/Facebook| |
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon| |
