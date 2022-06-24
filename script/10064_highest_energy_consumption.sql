@@ -21,6 +21,7 @@ consumption          int
 
 */
 
+
 -- logic:
 -- 1. union all energy tables
 -- 2. sum total energy consumption per date
