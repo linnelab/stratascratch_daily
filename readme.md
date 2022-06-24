@@ -14,7 +14,6 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9915_highest_cost_orders.sql)|
 |10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|Dropbox|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10308_salaries_differences.sql)|
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|Meta/Facebook| |
-|9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon| |
 |10319|[Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)|Hard|Amazon| |
 |10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)|Hard|Microsoft| |
 |514|[Marketing Campaign Success [Advanced]](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=1)|Hard|Amazon| |
