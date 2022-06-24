@@ -1,4 +1,5 @@
 /*
+
 Title       : Highest Energy Consumption
 Link        : https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=1
 Difficulty  : Medium
@@ -17,6 +18,7 @@ consumption          int
 <fb_na_energy>
 date                 datetime
 consumption          int
+
 */
 
 -- logic:
