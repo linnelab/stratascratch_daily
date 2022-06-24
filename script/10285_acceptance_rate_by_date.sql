@@ -1,4 +1,5 @@
 /*
+
 Title       : Acceptance Rate By Date
 Link        : https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1
 Difficulty  : Medium
@@ -14,7 +15,9 @@ user_id_sender           varchar
 user_id_receiver         varchar
 date                     datetime
 action                   varchar
+
 */
+
 
 -- logic:
 -- 1. get user sent data.
