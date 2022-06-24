@@ -22,6 +22,7 @@ user2             int
 
 -- note:
 -- need to convert data type from "int" to "float" or "decimal" when division operation.
+-- sum() over()
 
 -- solution 1: 
 WITH friends_list AS (
