@@ -1,4 +1,5 @@
 /*
+
 Title       : Customer Details
 Link        : https://platform.stratascratch.com/coding/9891-customer-details?code_type=1
 Difficulty  : Easy
@@ -22,7 +23,9 @@ cust_id             int
 order_date          datetime
 order_details       varchar
 total_order_cost    int
+
 */
+
 
 -- logic: use custumer id join two tables and find customer detail order
 
