@@ -20,4 +20,3 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10299|[Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1)|Easy|Microsoft| |
 |10046|[Top 5 States With 5 Star Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Hard|Yelp| |
 |9891|[Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|Amazon| |
-|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash| |
