@@ -1,4 +1,5 @@
 /*
+
 Title       : Highest Cost Orders
 Link        : https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1
 Difficulty  : Medium
@@ -22,6 +23,7 @@ cust_id             int
 order_date          datetime
 order_details       varchar
 total_order_cost    int
+
 */
 
 
