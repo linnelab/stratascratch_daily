@@ -1,4 +1,5 @@
 /*
+
 Title       : Salaries Differences
 Link        : https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1
 Difficulty  : Easy
@@ -17,7 +18,9 @@ email               datetime
 <db_dept>
 id                  int
 department          varchar
+
 */
+
 
 -- logic:
 -- 1. find highest marketing salary
