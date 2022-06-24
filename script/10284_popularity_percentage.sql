@@ -1,4 +1,5 @@
 /*
+
 Title       : Popularity Percentage
 Link        : https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1
 Difficulty  : Hard
@@ -12,7 +13,9 @@ Tables      : facebook_friends
 <facebook_friends>
 user1             int
 user2             int
+
 */
+
 
 -- logic:
 -- 1. union all platform users because user1 and user2 column are pairs of friends.
