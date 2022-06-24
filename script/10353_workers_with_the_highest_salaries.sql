@@ -21,6 +21,7 @@ affected_from           datetime
 
 */
 
+
 -- solution 1: use max()
 SELECT t.worker_title
 FROM worker AS w
