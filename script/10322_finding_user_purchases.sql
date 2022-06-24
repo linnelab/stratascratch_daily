@@ -1,4 +1,5 @@
 /*
+
 Title       : Finding User Purchases
 Link        : https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1
 Difficulty  : Medium
@@ -13,7 +14,9 @@ user_id         int
 item            varchar
 created_at      datetime
 revenue         int
+
 */
+
 
 -- note:
 -- a1.id <> a2.id : self-join table produce same shop id to need exclude.
