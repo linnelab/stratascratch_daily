@@ -23,4 +23,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash| |
 |9622|[Number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Easy|Airbnb|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9622_number_of_bathrooms_and_bedrooms.sql)|
 |9632|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1)|Hard|Airbnb| |
-|10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook| |
+|10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10061_popularity_of_hack)|
