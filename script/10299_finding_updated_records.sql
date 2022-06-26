@@ -20,7 +20,8 @@ department_id       int
 
 
 -- note :
--- solution 2 : method like #9917
+-- solution 2 : method like solution 2 of #9917
+-- #9917 ref link : https://github.com/linnelab/stratascratch_daily/blob/main/script/9917_average_salaries.sql
 
 
 -- solution 1: 
