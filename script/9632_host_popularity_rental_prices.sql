@@ -43,7 +43,7 @@ beds                                int
 
 
 -- note :
--- source have duplicate record, so need to group by remove duplicate record, use AVG() calculate result have correct.
+-- source data have duplicate record, so need to group by exclude duplicate record, when use AVG() calculate price result will correct.
 
 -- solution 1: 
 WITH host_popularity_rating AS (
