@@ -31,6 +31,12 @@ manager_id            int
 -- solution 2 : use partition department to calculate each of department average salary.
 
 
+-- note :
+-- solution 2 : method like solution 2 of #10299
+-- #10299 ref link : https://github.com/linnelab/stratascratch_daily/blob/main/script/10299_finding_updated_records.sql
+
+
+
 -- solution 1: 
 WITH avg_department_salary AS (
     SELECT department, 
