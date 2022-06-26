@@ -22,7 +22,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9891|[Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9891_customer_details.sql)|
 |9622|[Number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Easy|Airbnb|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9622_number_of_bathrooms_and_bedrooms.sql)|
 |9632|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1)|Hard|Airbnb|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9632_host_popularity_rental_prices.sql)|
-|10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10061_popularity_of_hack)|
+|10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10061_popularity_of_hack.sql)|
 |9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|Meta/Facebook| |
 |9917|[Average Salaries](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1)|Easy|Salesforce|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9917_average_salaries.sql)|
 |9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|City of San Francisco| |
