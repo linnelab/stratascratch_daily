@@ -35,3 +35,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10156|[Number Of Units Per Nationality](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=1)|Medium|Airbnb| |
 |9728|[Number of violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1)|Medium|City of San Francisco| |
 |9905|[Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1)|Medium|Salesforce| |
+|10176|[Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=1)|Easy|Lyft| |
