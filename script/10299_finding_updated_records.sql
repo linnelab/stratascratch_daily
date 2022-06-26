@@ -19,6 +19,10 @@ department_id       int
 */
 
 
+-- note :
+-- solution 2 : method like #9917
+
+
 -- solution 1: 
 WITH current_salary AS (
     SELECT id, MAX(salary) AS current_salary
@@ -34,7 +38,7 @@ FROM current_salary AS cs
 INNER JOIN ms_employee_salary AS mes
     ON cs.id = mes.id
     
--- solution 2:
+-- solution 2: 
 SELECT id, 
        first_name, 
        last_name, 
