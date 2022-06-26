@@ -36,7 +36,6 @@ manager_id            int
 -- #10299 ref link : https://github.com/linnelab/stratascratch_daily/blob/main/script/10299_finding_updated_records.sql
 
 
-
 -- solution 1: 
 WITH avg_department_salary AS (
     SELECT department, 
