@@ -23,3 +23,15 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9622|[Number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Easy|Airbnb|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9622_number_of_bathrooms_and_bedrooms.sql)|
 |9632|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1)|Hard|Airbnb|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9632_host_popularity_rental_prices.sql)|
 |10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10061_popularity_of_hack)|
+|9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|Meta/Facebook| |
+|9917|[Average Salaries](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1)|Easy|Salesforce| |
+|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|City of San Francisco| |
+|9913|[Order Details](https://platform.stratascratch.com/coding/9913-order-details?code_type=1)|Easy|Amazon| |
+|10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|Yelp| |
+|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|Yelp| |
+|9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|Twitter| |
+|10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1)|Easy|Meta/Facebook| |
+|9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|Dropbox| |
+|10156|[Number Of Units Per Nationality](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=1)|Medium|Airbnb| |
+|9728|[Number of violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1)|Medium|City of San Francisco| |
+|9905|[Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1)|Medium|Salesforce| |
