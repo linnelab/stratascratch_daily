@@ -42,6 +42,13 @@ beds                                int
 */
 
 
+-- logic :
+-- 1. cancat special column become host_id. (use || or CANCAT()
+-- 2. according to number_of_reviews convert popularity rating. (use CASE WHEN)
+-- 3. exclude duplicate records. (use GROUP BY)
+-- 4. get max / min / avg price for each of popularity rating. (use MAX() / MIN() / AVG()
+
+
 -- note :
 -- source data have duplicate record, so need to group by exclude duplicate record, when use AVG() calculate price result will correct.
 -- string concate can use || or CONCAT()
