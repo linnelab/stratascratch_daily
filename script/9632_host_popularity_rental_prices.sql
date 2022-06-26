@@ -44,6 +44,8 @@ beds                                int
 
 -- note :
 -- source data have duplicate record, so need to group by exclude duplicate record, when use AVG() calculate price result will correct.
+-- string concate can use || or CONCAT()
+
 
 -- solution 1: 
 WITH host_popularity_rating AS (
