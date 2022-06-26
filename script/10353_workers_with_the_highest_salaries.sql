@@ -23,14 +23,12 @@ affected_from           datetime
 
 
 -- solution 1: use max()
-SELECT t.worker_title
+SELECT t.worker_title,
+       w.salary AS highest_salary
 FROM worker AS w
 INNER JOIN title AS t
     ON w.worker_id = t.worker_ref_id
-WHERE w.salary = (
-    SELECT MAX(salary)
-    FROM worker
-)
+WHERE w.salary = (SELECT MAX(salary) FROM worker)
 
 
 -- solution 2: use dense_rank()
