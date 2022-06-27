@@ -15,7 +15,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|Dropbox|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10308_salaries_differences.sql)|
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10284_popularity_percentage.sql)|
 |10319|[Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)|Hard|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10319_monthly_percentage_difference)|
-|10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)|Hard|Microsoft| |
+|10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)|Hard|Microsoft|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10300_premium_vs_freemium.sql)|
 |514|[Marketing Campaign Success [Advanced]](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=1)|Hard|Amazon| |
 |10299|[Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1)|Easy|Microsoft|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10299_finding_updated_records.sql)|
 |10046|[Top 5 States With 5 Star Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Hard|Yelp| |
