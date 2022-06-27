@@ -33,6 +33,7 @@ downloads            int
 
 -- note :
 -- solution 2 and 3 diff is using FILTER() and CASE WHEN.
+-- FILTER() and CASE WHEN ref : https://kb.objectrocket.com/postgresql/how-to-use-the-filter-clause-in-postgresql-881
 
 
 -- solution 1: 
