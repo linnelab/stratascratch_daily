@@ -28,7 +28,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|City of San Francisco|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9726_classify_business_type.sql)|
 |9913|[Order Details](https://platform.stratascratch.com/coding/9913-order-details?code_type=1)|Easy|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9913_order_details.sql)|
 |10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|Yelp|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10060_top_cool_votes.sql)|
-|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|Yelp| |
+|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|Yelp|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10049_reviews_of_categories.sql)|
 |9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|Twitter|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9897_highest_salary_in_department.sql)|
 |10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1)|Easy|Meta/Facebook| |
 |9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|Dropbox| |
