@@ -25,7 +25,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10061|[Popularity of Hack](https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1)|Easy|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10061_popularity_of_hack.sql)|
 |9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9782_customer_revenue_in_march.sql)|
 |9917|[Average Salaries](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1)|Easy|Salesforce|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9917_average_salaries.sql)|
-|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|City of San Francisco| |
+|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|City of San Francisco|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9726_classify_business_type.sql)|
 |9913|[Order Details](https://platform.stratascratch.com/coding/9913-order-details?code_type=1)|Easy|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9913_order_details.sql)|
 |10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|Yelp| |
 |10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|Yelp| |
