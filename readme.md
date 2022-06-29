@@ -31,7 +31,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|Yelp|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10049_reviews_of_categories.sql)|
 |9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|Twitter|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9897_highest_salary_in_department.sql)|
 |10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1)|Easy|Meta/Facebook| |
-|9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|Dropbox| |
+|9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|Dropbox|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9894_employee_and_manager_salaries.sql)|
 |10156|[Number Of Units Per Nationality](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=1)|Medium|Airbnb| |
 |9728|[Number of violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1)|Medium|City of San Francisco| |
 |9905|[Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1)|Medium|Salesforce|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9905_highest_target_under_manager.sql)|
