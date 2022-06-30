@@ -25,7 +25,7 @@ forbeswebpage         varchar
 
 
 -- note:
--- 1. use DENSE_RANK()
+-- 1. use DENSE_RANK() and set ranking less than 4 will output all companies with the same profit.
 
 
 -- solution 1:
