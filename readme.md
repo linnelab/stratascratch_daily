@@ -55,4 +55,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10003|[Lyft Driver Wages](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=1)|Easy|Lyft| |
 |10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|Yelp| |
 |9680|[Most Profitable Companies](https://platform.stratascratch.com/coding/9680-most-profitable-companies?code_type=1)|Medium|Forbes| |
-|9688|[Churro Activity Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1)|Easy|City of Los Angeles| |
+|9688|[Churro Activity Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1)|Easy|City of Los Angeles|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9688_churro_activity_date.sql)|
