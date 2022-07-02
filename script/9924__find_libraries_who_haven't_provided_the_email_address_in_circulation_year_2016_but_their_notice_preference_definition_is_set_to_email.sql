@@ -27,8 +27,14 @@ supervisor_district                 float
 */
 
 
+-- note:
+-- Result will produce same records on home library code, so need to disitnct duplicate rows.
+-- Because provided_email_address column data type is boolean, so where condition use "IS FALSE" to determine which records have matching.
+
+
 -- solution 1:
 SELECT DISTINCT home_library_code
 FROM library_usage
-WHERE provided_email_address = FALSE 
+WHERE provided_email_address IS FALSE 
     AND notice_preference_definition = 'email'
+    AND circulation_active_year = 2016
