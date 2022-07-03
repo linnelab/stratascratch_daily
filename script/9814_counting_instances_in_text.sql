@@ -16,21 +16,23 @@ contents        varchar
 
 
 -- logic:
+
+-- [solution 1]
 -- 1. use empty char to split string, and each text into array type. (use STRING_TO_ARRAY())
 -- 2. array elements set each rows in table. (use UNNEST())
 -- 3. get the number of 'bull' and 'bear' text.
 
--- 4. TO_TSVECTOR() : get text in string, and return text and text location in string.
+-- [solution 2]
+-- 1. TO_TSVECTOR() : get text in string, and return text and text in string location.
 -- Ref link : https://www.postgresql.org/docs/current/textsearch-controls.html
 --            https://www.twblogs.net/a/5b8d139c2b717718833a9926
 
--- 5. TS_STAT() : 
+-- 2. TS_STAT() : 
 -- count the word appear frequency.
 -- return columns name :
--- 1. word   : the value of a lexeme.
--- 2. ndoc   : number of documents (tsvectors) the word occurred in.
+-- 1. word   : text.
+-- 2. ndoc   : the number of the word occurred in document.
 -- 3. nentry : total number of occurrences of the word.
-
 -- Ref link : https://blog.csdn.net/weixin_39540651/article/details/104043260
 --            https://www.postgresql.org/docs/current/textsearch-features.html#TEXTSEARCH-STATISTICS
 
