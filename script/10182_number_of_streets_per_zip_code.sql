@@ -38,11 +38,19 @@ risk_category                 varchar
 -- logic and note:
 -- 1. determine business_address first text is number, then get second text as stress keyword, 
 --    if first text is not number, then get first text as stress keyword.
--- 2. remeber: change stress keyword to lower and distinct duplicate stess keyword records.
--- 3. count the number of this keyword.
+-- *2. change stress keyword to lower and distinct duplicate stess keyword records.
+-- *3. some records are not business_postal_code, so  excepted
+-- 4. count the number of this keyword.
 
--- split_part :
+-- 5. split_part :
 -- ref link : https://www.postgresqltutorial.com/postgresql-string-functions/postgresql-split_part/
+
+-- 6. ~ : 
+-- is an operator for pattern matching. 
+-- Ref link: https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-POSIX-REGEXP
+
+-- 7. ^[0-9] : 
+-- expression will be true for every string that starts with a number, and false if the string starts with anything that is not a number.
 
 
 -- solution 1:
