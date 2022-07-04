@@ -1,8 +1,8 @@
-# SQL Coding Questions:
+# StrataScratch - SQL Coding Questions:
 
 Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training SQL technical.
 
-## Completed Item: `50`
+## Completed Practices: `50`
 
 |#|Title|Difficulty|Company|Solution|
 |-----|-------------|----------|---------------------------------|--------|
