@@ -57,3 +57,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9680|[Most Profitable Companies](https://platform.stratascratch.com/coding/9680-most-profitable-companies?code_type=1)|Medium|Forbes|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9680_most_profitable_companies.sql)|
 |9688|[Churro Activity Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1)|Easy|City of Los Angeles|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9688_churro_activity_date.sql)|
 |9893|[Distances Traveled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|Medium|Apple|[Link](https://platform.stratascratch.com/coding/9893-duplicate-orders?code_type=1)|
+|10324|[Distances Traveled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|Medium|Lyft|[Link](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|
