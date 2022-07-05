@@ -6,7 +6,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 
 |#|Title|Difficulty|Company|Solution|Key Technical|
 |-----|-------------|----------|---------------------------------|--------|----------|
-|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|Join、MAX、DENSE_RANK、Subquery|
+|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|join、max、dense_rank、case when、subquery|
 |10352|[Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10352_users_by_average_session_time.sql)|
 |10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10322_finding_user_purchases.sql)|
 |10285|[Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10285_acceptance_rate_by_date.sql)|
