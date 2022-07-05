@@ -4,8 +4,8 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 
 ## Completed Practices: `58`
 
-|#|Title|Difficulty|Company|Solution|
-|-----|-------------|----------|---------------------------------|--------|
+|#|Title|Difficulty|Company|Solution|Key Technical|
+|-----|-------------|----------|---------------------------------|--------|----------|
 |10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|
 |10352|[Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10352_users_by_average_session_time.sql)|
 |10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10322_finding_user_purchases.sql)|
