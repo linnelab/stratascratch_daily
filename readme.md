@@ -67,3 +67,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9901|[Super Managers](https://platform.stratascratch.com/coding/9901-super-managers?code_type=1)|Medium|PayPal|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9901_super_managers.sql)|
 |10068|[User Email Labels](https://platform.stratascratch.com/coding/10068-user-email-labels?code_type=1)|Medium|Google|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10068_user_email_labels.sql)|
 |9892|[Second Highest Salary](https://platform.stratascratch.com/coding/9892-second-highest-salary?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9892_second_highest_salary.sql)|
+|9912|[Lowest Priced Orders](https://platform.stratascratch.com/coding/9912-lowest-priced-orders?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9912_lowest_priced_orders.sql)|
