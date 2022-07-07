@@ -1,7 +1,7 @@
 /*
 
 Title       : Find the unique room types
-Link        : https://platform.stratascratch.com/coding/9895-duplicate-emails?code_type=1
+Link        : https://platform.stratascratch.com/coding/9642-find-the-number-of-unique-properties?code_type=1
 Difficulty  : Medium
 Question    : Find the unique room types(filter room types column). 
               Output each unique room types in its own row.
