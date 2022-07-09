@@ -4,7 +4,7 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 
 ## Completed Practices: `70`
 
-|#|Title|Difficulty|Company|Solution|Key Technical|
+|#|Title|Difficulty|Company|Interview Question Date|Solution|Key Technical|
 |-----|-------------|----------|---------------------------------|--------|----------|
 |10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|join、max、dense_rank、subquery、case when|
 |10352|[Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10352_users_by_average_session_time.sql)|date、min、max、avg、inner join、cte|
@@ -76,3 +76,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |10044|[Highest Priced Wine In The US](https://platform.stratascratch.com/coding/10044-highest-priced-wine-in-the-us?code_type=1)|Medium|Wine Magazine|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10044_highest_priced_wine_in_the_us.sql)|max、not in、cte|
 |9899|[Percentage Of Total Spend](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1)|Medium|Amazon|[Link](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1)|sum() over(partition by)、change data type use postfix、inner join|
 |9898|[Distinct Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?code_type=1)|Hard|Twitter|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9898_distinct_salaries.sql)|dense_rank、cte|
+|10172|[Best Selling Item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1)|Hard|Amazon|July 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10172_best_selling_item.sql)|extract、date_part、sum、dense_rank、cte|
