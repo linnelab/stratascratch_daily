@@ -62,4 +62,3 @@ SELECT COUNT(DISTINCT user_id) AS n_employees
 FROM next_employer_list
 WHERE employer ILIKE 'microsoft'
     AND next_employer ILIKE 'google'
-*/
