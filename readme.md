@@ -2,15 +2,15 @@
 
 Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training SQL technical.
 
-## Completed Practices: `70`
+## Completed Questions: `71`
 
-|#|Title|Difficulty|Company|Interview Question Date|Solution|Key Technical|
+|#|Title|Difficulty|Company|Interview Date|Solution|Key Technical|
 |-----|-------------|----------|---------------------------------|----------------|--------|----------|
-|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|join、max、dense_rank、subquery、case when|
-|10352|[Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10352_users_by_average_session_time.sql)|date、min、max、avg、inner join、cte|
-|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10322_finding_user_purchases.sql)|inner join、between and|
-|10285|[Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10285_acceptance_rate_by_date.sql)|count、cast、left join、cte|
-|10064|[Highest Energy Consumption](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=1)|Medium|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10064_highest_energy_consumption.sql)|union all、sum、max、dense_rank、cte、subquery|
+|10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1)|Medium|DoorDash|July 2021|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10353_workers_with_the_highest_salaries.sql)|join、max、dense_rank、subquery、case when|
+|10352|[Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1)|Medium|Meta/Facebook|July 2021|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10352_users_by_average_session_time.sql)|date、min、max、avg、inner join、cte|
+|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|Amazon|Dec 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10322_finding_user_purchases.sql)|inner join、between and|
+|10285|[Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1)|Medium|Meta/Facebook|Nov 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10285_acceptance_rate_by_date.sql)|count、cast、left join、cte|
+|10064|[Highest Energy Consumption](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=1)|Medium|Meta/Facebook|Mar 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10064_highest_energy_consumption.sql)|union all、sum、max、dense_rank、cte、subquery|
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|Amazon|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9915_highest_cost_orders.sql)|sum、max、between and、left join、subquery、cte|
 |10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|Dropbox|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10308_salaries_differences.sql)|max、abs、filter、case when、inner join、cte|
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|Meta/Facebook|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10284_popularity_percentage.sql)|union、union all、count、sum、change data type use postfix、cte|
@@ -77,3 +77,4 @@ Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platfo
 |9899|[Percentage Of Total Spend](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1)|Medium|Amazon|[Link](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1)|sum() over(partition by)、change data type use postfix、inner join|
 |9898|[Distinct Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?code_type=1)|Hard|Twitter|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/9898_distinct_salaries.sql)|dense_rank、cte|
 |10172|[Best Selling Item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1)|Hard|Amazon|July 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10172_best_selling_item.sql)|extract、date_part、sum、dense_rank、cte|
+|10131|[Business Name Lengths](https://platform.stratascratch.com/coding/10131-business-name-lengths?code_type=1)|Hard|City of San Francisco|June 2020|[Link](https://github.com/linnelab/stratascratch_daily/blob/main/script/10131_business_name_lengths.sql)|regexp_replace、regexp_split_to_array、array_length|
