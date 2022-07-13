@@ -2,7 +2,7 @@
 
 Using PostgreSQL to solve SQL coding questions on [StrataScratch](https://platform.stratascratch.com/coding?code_type=1) for training SQL technical.
 
-## Completed Questions: `82`
+## Completed Questions: `85`
 
 |#|Title|Difficulty|Company|Interview Date|Solution|Key Technical|
 |-----|-------------|----------|---------------------------------|----------------|--------|----------|
